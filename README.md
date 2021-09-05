@@ -1,7 +1,7 @@
 # hello-world
 tutorial
 
-Hello.
-I am new to coding, I don't know much about it at all actually. 
-I'm excited to start this journey, not knowing where it will take me.
-Let's see how much I can learn :)
+Heyo! im @todooi, 21F
+i am new to coding, i dont know much about it at all actually. 
+im excited to get into programming, i would love to develop mobile games!
+nice to meetcha!
